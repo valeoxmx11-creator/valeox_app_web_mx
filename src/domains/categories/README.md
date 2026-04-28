@@ -1,0 +1,1 @@
+Category taxonomy management domain.
